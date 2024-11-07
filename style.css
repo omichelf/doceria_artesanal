@@ -58,7 +58,7 @@ nav a:hover{
 header{
     text-align: center;
     color: var(--cor1);
-    padding: 80px 0px 50px 0px;   
+    padding: 80px 10px 50px 10px;   
 }
 
 header h1{

@@ -128,7 +128,7 @@ section p{
 }
 
 div{
-    background-size: auto;
+    background-size: cover;
     background-position: center center;
     background-attachment: fixed;
     height: 200px;

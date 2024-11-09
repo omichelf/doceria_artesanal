@@ -100,11 +100,12 @@ section h1{
 }
 
 section h2{
-    background-image: linear-gradient(to right, var(--cor0), var(--cor0), var(--cor1));
+    background-color: var(--cor0);
     color: var(--cor1);
     font-family: var(--fonte-lemon);
     padding-left: 10px;
-    border-radius: 13px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
     margin: 40px 0px 20px 0px;
 }
 
@@ -124,4 +125,17 @@ section p{
     padding-bottom: 20px;
     font-family: var(--fonte-lemon);
     font-weight: lighter;
+}
+
+#fotobri{
+    background-image: url(midias/imagens/Snapinsta.app_458767496_1971283556651993_4630169024009695377_n_1080.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 200px;
+    border-radius: 13px;
+}
+
+#fotobri h2{
+    text-align: center;
 }

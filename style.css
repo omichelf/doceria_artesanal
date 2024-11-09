@@ -127,15 +127,28 @@ section p{
     font-weight: lighter;
 }
 
-#fotobri{
-    background-image: url(midias/imagens/Snapinsta.app_458767496_1971283556651993_4630169024009695377_n_1080.jpg);
-    background-size: cover;
+div{
+    background-size: auto;
     background-position: center center;
     background-attachment: fixed;
     height: 200px;
     border-radius: 13px;
+    text-align: center;
 }
 
-#fotobri h2{
-    text-align: center;
+#fotobri{
+    background-image: url(midias/imagens/brigadeiros.jpg);
+}
+
+#fotoex{
+    background-image: url(midias/imagens/minicamafeus.jpg);
+}
+
+#fotobolo{
+    background-image: url(midias/imagens/bolo.jpg);
+    height: 200px;
+}
+
+#fotofi{
+    background-image: url(midias/imagens/copinho.jpg);
 }
